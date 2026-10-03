@@ -30,7 +30,7 @@ The project also demonstrates how the same salary data can be analyzed using Pan
 
 |      Analysis      | Result|
 |--------------------|------:|
-| Number of Employees| 20    |
+| Number of Employees|  20   |
 | Total Salary       | 811500|
 | Average Salary     | 40575 |
 | Highest Salary     | 65000 |
